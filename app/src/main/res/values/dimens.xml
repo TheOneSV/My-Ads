@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!-- Using in fragment_ad_photos. -->
+    <dimen name="view_photo_size">110dp</dimen>
+    <dimen name="horizontal_spacing">20dp</dimen>
+    <dimen name="vertical_spacing">20dp</dimen>
+    <dimen name="view_list_photo_size">100dp</dimen>
+
+    <dimen name="button_height">30dp</dimen>
+
+</resources>

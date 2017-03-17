@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_my_ads"
+        android:icon="@drawable/ic_my_ads"
+        android:title="@string/title_my_ads" />
+
+    <item
+        android:id="@+id/navigation_place_ad"
+        android:icon="@drawable/ic_place_ads"
+        android:title="@string/title_place_ad" />
+
+</menu>

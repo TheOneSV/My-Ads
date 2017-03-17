@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.yonko.myads.views.GridItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/view_photo_size"
+    android:layout_height="@dimen/view_photo_size"
+    android:scaleType="centerCrop"
+    android:background="@drawable/blue_oval_bg">
+</com.example.yonko.myads.views.GridItemView>

@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">My Ads</string>
+
+    <!-- Title strings -->
+    <string name="title_my_ads">My Ads</string>
+    <string name="title_place_ad">Place Ad</string>
+    <string name="title_ad_info">Ad Info</string>
+
+    <string name="not_specified">Not Specified</string>
+    <string name="default_location">Sofia, Bulgaria</string>
+
+    <!-- Arrays and strings related to ads categories -->
+    <!-- Category default titles -->
+    <string name="category_default">Category</string>
+    <string name="subcategory_default">Subcategory</string>
+
+    <!-- Category titles -->
+    <string name="category_for_sale">For Sale</string>
+    <string name="category_services">Services</string>
+    <string name="category_vehicles">Vehicles</string>
+    <string name="category_property">Property</string>
+    <!-- Categories -->
+    <string-array name="categories">
+        <item>@string/category_default</item>
+        <item>@string/category_for_sale</item>
+        <item>@string/category_services</item>
+        <item>@string/category_vehicles</item>
+        <item>@string/category_property</item>
+    </string-array>
+
+    <!-- Subcategory - For Sale -->
+    <string-array name="subcategory_for_sale">
+        <item name="fashion_and_beauty">Fashion &amp; Beauty</item>
+        <item name="home_and_garden">Home and Garden</item>
+        <item name="handmade">Handmade</item>
+        <item name="furniture">Furniture</item>
+    </string-array>
+    <!-- Subcategory - Services -->
+    <string-array name="subcategory_services">
+        <item name="catering">Catering</item>
+        <item name="babysitting">Babysitting</item>
+        <item name="elder_care">Elder Care</item>
+    </string-array>
+    <!-- Subcategory - Vehicles -->
+    <string-array name="subcategory_vehicles">
+        <item name="cars">Cars</item>
+        <item name="motorcycles">Motorcycles</item>
+        <item name="bicycles">Bicycles</item>
+        <item name="boats">Boats</item>
+    </string-array>
+    <!-- Subcategory - Property -->
+    <string-array name="subcategory_property">
+        <item name="flat_sharing">Flat Sharing</item>
+        <item name="houses_for_sale">Houses for sale</item>
+        <item name="rooms_for_rent">Rooms for rent</item>
+    </string-array>
+    <!-- Subcategory - Default -->
+    <string-array name="subcategory_default">
+        <item name="default">@string/subcategory_default</item>
+    </string-array>
+
+    <!-- Ads list info text -->
+    <string name="ads_list_info">if list is empty navigate to the next tab to create your new ads</string>
+
+    <!-- Using in ImageGridViewAdapter -->
+    <string name="tag_key_holder">10</string>
+
+    <!-- Ad info strings -->
+    <string name="ad_info_description">Description (512 max)</string>
+    <string name="ad_info_title">Title</string>
+    <string name="ad_info_price">Price</string>
+    <string name="price_sign">\u20ac</string>
+    <string name="ad_info_price_desc">* if you don`t want price to be visible, please use 0</string>
+    <string name="next">Next</string>
+
+    <!-- Photos strings -->
+    <string name="photos_error_msg">It must be selected at least one image!</string>
+
+    <!-- Category strings -->
+    <string name="category_error_msg">It must be selected category!</string>
+
+    <!-- Contacts strings -->
+    <string name="save">Save</string>
+    <string name="show_my_location">Show my Location</string>
+    <string name="share_on_facebook">Share on Facebook</string>
+    <string name="contacts_phone">Phone Number (optional)</string>
+    <string name="err_msg_title">Title must not be empty!</string>
+    <string name="err_msg_description">Description must not be empty!</string>
+    <string name="err_msg_price">Price must be not empty and not negative number!</string>
+    <string name="err_msg_price_not_negative">The price should not be negative!</string>
+
+</resources>
