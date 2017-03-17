@@ -74,10 +74,10 @@
     <string name="next">Next</string>
 
     <!-- Photos strings -->
-    <string name="photos_error_msg">It must be selected at least one image!</string>
+    <string name="photos_error_msg">At least one image must be selected!</string>
 
     <!-- Category strings -->
-    <string name="category_error_msg">It must be selected category!</string>
+    <string name="category_error_msg">Category it must be selected!</string>
 
     <!-- Contacts strings -->
     <string name="save">Save</string>
@@ -86,7 +86,7 @@
     <string name="contacts_phone">Phone Number (optional)</string>
     <string name="err_msg_title">Title must not be empty!</string>
     <string name="err_msg_description">Description must not be empty!</string>
-    <string name="err_msg_price">Price must be not empty and not negative number!</string>
+    <string name="err_msg_price">Price must not be empty and not negative number!</string>
     <string name="err_msg_price_not_negative">The price should not be negative!</string>
 
 </resources>
