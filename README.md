@@ -1,5 +1,5 @@
 # My-Ads
-Simple Android advertising app. When the list in "My Ads" tab is filled with ads, then clicking the Save button ads are being processed and logged in JSON format 
+Simple Android advertising app. When the list in "My Ads" tab is filled with ads, then clicking the Save button ads are being processed and logged into JSON format 
 
 ![1](https://cloud.githubusercontent.com/assets/24231815/24422633/d6e76514-1402-11e7-8cbd-62c17b2a35e8.png)
 
