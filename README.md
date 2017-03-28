@@ -10,3 +10,5 @@ Simple Android advertising app. When the list in "My Ads" tab is filled with ads
 ![4](https://cloud.githubusercontent.com/assets/24231815/24422632/d6e3dcaa-1402-11e7-82aa-020764dfe288.png)
 
 ![5](https://cloud.githubusercontent.com/assets/24231815/24422634/d6e89dc6-1402-11e7-8b95-765e82419877.png)
+
+![6](https://cloud.githubusercontent.com/assets/24231815/24423000/31f92a40-1404-11e7-9cfb-0c251188eae7.png)
